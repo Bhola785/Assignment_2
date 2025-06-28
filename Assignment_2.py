@@ -5,13 +5,13 @@ Problem Statement:  Write a Python program that:
 2. 	Checks whether the number is even or odd using an if-else statement.
 3. 	Displays the result accordingly. '''
 
-'''a=int(input("Enter a number: "))
+a=int(input("Enter a number: "))
 b=2
 if a%2==0:
     print("The enterd number is even")
 elif a%2!=0:
     print("The enterd number is odd")
-print("Thank you")'''
+print("Thank you")
 
 '''
 Task 2: Sum of Integers from 1 to 50 Using a Loop
@@ -22,8 +22,8 @@ Problem Statement: Write a Python program that:
 3.   Displays the final sum.
 '''
 
-'''sum = 0
+sum = 0
 for i in range(0,51):
     sum += i
-    print("The sum of number 1 to 50 is ",sum)'''
+    print("The sum of number 1 to 50 is ",sum)
 
